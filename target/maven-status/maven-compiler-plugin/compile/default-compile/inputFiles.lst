@@ -1,0 +1,8 @@
+/Users/samuelbini/Documents/BIHAR 21-22/Gestion de Données massives/TP/Parcours_graphes/src/main/java/com/estia/app/ParcoursGraphesInputFormat.java
+/Users/samuelbini/Documents/BIHAR 21-22/Gestion de Données massives/TP/Parcours_graphes/src/main/java/com/estia/app/ParcoursGraphesRecordReader.java
+/Users/samuelbini/Documents/BIHAR 21-22/Gestion de Données massives/TP/Parcours_graphes/src/main/java/com/estia/app/GraphNodeWritable.java
+/Users/samuelbini/Documents/BIHAR 21-22/Gestion de Données massives/TP/Parcours_graphes/src/main/java/com/estia/app/ParcoursGraphesRecordWriter.java
+/Users/samuelbini/Documents/BIHAR 21-22/Gestion de Données massives/TP/Parcours_graphes/src/main/java/com/estia/app/ParcoursGraphesOutputFormat.java
+/Users/samuelbini/Documents/BIHAR 21-22/Gestion de Données massives/TP/Parcours_graphes/src/main/java/com/estia/app/ParcoursGraphesMap.java
+/Users/samuelbini/Documents/BIHAR 21-22/Gestion de Données massives/TP/Parcours_graphes/src/main/java/com/estia/app/ParcoursGraphesReduce.java
+/Users/samuelbini/Documents/BIHAR 21-22/Gestion de Données massives/TP/Parcours_graphes/src/main/java/com/estia/app/ParcoursGraphes.java
